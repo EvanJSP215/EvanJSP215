@@ -8,7 +8,7 @@
 
 ## Contact Me 📫
 - Feel free to contact me: [evanjiang023@gmail.com](mailto:evanjiang023@gmail.com)
-- [Linkedin](https://www.linkedin.com/in/evan-jiang400/)
+- My LinkedIn: [Linkedin](https://www.linkedin.com/in/evan-jiang400/)
 
 
 <!--
