@@ -9,7 +9,7 @@
 - Feel free to contact me: [evanjiang023@gmail.com](mailto:evanjiang023@gmail.com)
 
 ### Currently Listening To 🎧
-[![Spotify](https://novatorem-ns8xzx57u-evan-jiangs-projects.vercel.app/api/spotify)](https://open.spotify.com/user/kmu7ktg5jcjvpw6tfv7czccjw)
+[![Spotify](https://novatorem-evan-jiangs-projects.vercel.app/api/spotify)](https://open.spotify.com/user/kmu7ktg5jcjvpw6tfv7czccjw)
 
 <!--
 **EvanJSP215/EvanJSP215** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
