@@ -8,7 +8,7 @@
 ## Contact Me
 - Feel free to contact me: [evanjiang023@gmail.com](mailto:evanjiang023@gmail.com)
 
-[![Spotify](https://novatorem-seven-flax.vercel.app/api/spotify)](https://open.spotify.com/user/kmu7ktg5jcjvpw6tfv7czccjw)
+[![Spotify](https://novatorem-seven-flax.vercel.app/api/spotify)](https://open.spotify.com/user/Evan)
 
 <!--
 **EvanJSP215/EvanJSP215** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
