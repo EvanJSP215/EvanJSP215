@@ -3,7 +3,7 @@
 
 ## About Me 😀
 - My name is **Evan Jiang**. I am a Senior at the University at Buffalo.
-- I have a passion for Backend Web Development & Project Management.
+- I have a passion for Software Engineering, Project Management and Product Management.
 - If I am not coding, I am either watching sports or getting better at competitive pokemon!
 
 ## Contact Me 📫
